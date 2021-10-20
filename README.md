@@ -11,7 +11,7 @@
 ### Keep in touch :
 
 
-<a href="https://instagram.com/saniaflahh" target="_blank"> <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+<a href="https://instagram.com/saniaflahh" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png"/>
 </a>
 <br />
 <small><small>*strangers dont interact please*</small></small>
