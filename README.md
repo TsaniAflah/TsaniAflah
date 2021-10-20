@@ -1,4 +1,4 @@
-<h1 align="center"><img width="50%" height="auto" src="https://cdn131.picsart.com/317759484386211.png?type=webp&to=min&r=640"/></h1>
+<h1 align="center"><img width="27%" height="auto" src="https://cdn131.picsart.com/317759484386211.png?type=webp&to=min&r=640"/></h1>
 <h1 align="center">Nice to meet you<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sani</h1>
 
 ## **ABOUT ME**
