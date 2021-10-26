@@ -6,7 +6,7 @@
 -  Name              : Tsani Aflah
 -  Student ID Number : **2008107010015**
 -  Major             : Computer Science/informatics
--  Interested in software engineer and UI/UX
+-  Interested in android development and UI/UX
 
 ### Keep in touch :
 
