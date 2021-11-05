@@ -3,10 +3,10 @@
 
 ## **ABOUT ME**
 
--  Name              : Tsani Aflah
--  Student ID Number : **2008107010015**
--  Major             : Computer Science/informatics
--  Interested in android development and UI/UX
+- 𝐍𝐚𝐦𝐞              : 𝐓𝐬𝐚𝐧𝐢 𝐀𝐟𝐥𝐚𝐡 
+- 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐈𝐃 𝐍𝐮𝐦𝐛𝐞𝐫 : **𝟐𝟎𝟎𝟖𝟏𝟎𝟕𝟎𝟏𝟎𝟎𝟏𝟓** 
+- 𝐌𝐚𝐣𝐨𝐫             : 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 /𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬 
+- 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐚𝐧𝐝 𝐔𝐈/𝐔𝐗
 
 ### Keep in touch :
 
@@ -32,6 +32,20 @@
   <p>Constructive feedback is highly appreciated.
   Thank you.</p>
 
+
 ---
-  <img align = "left" width="38%" src="https://user-images.githubusercontent.com/90914338/139286220-e02433c7-f199-41db-a39c-5e0b81c6a0ad.gif">
-  <img align = "left" width="40%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsaniAflah&show_icons=true&theme=gruvbox_light"> 
+<p>
+<img align = "center" width="40%" src="https://user-images.githubusercontent.com/90914338/139286220-e02433c7-f199-41db-a39c-5e0b81c6a0ad.gif">
+<img align = "center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsaniAflah&show_icons=true&theme=gruvbox_light"> 
+
+</p>
+
+<br>
+
+----
+----
+<details>
+<summary><big><big>𝖞𝖔𝖚 𝖆𝖗𝖊 𝖛𝖎𝖘𝖎𝖙𝖔𝖗 :</summary>
+<img src= "https://profile-counter.glitch.me/{TsaniAflah}/count.svg"/>
+<detail/>
+<p/>
