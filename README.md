@@ -45,7 +45,7 @@
 ----
 ----
 <details>
-<summary><big><big>𝖞𝖔𝖚 𝖆𝖗𝖊 𝖛𝖎𝖘𝖎𝖙𝖔𝖗 :</summary>
-<img src= "https://profile-counter.glitch.me/{TsaniAflah}/count.svg"/>
+<summary><big><big><big><big>𝖞𝖔𝖚 𝖆𝖗𝖊 𝖛𝖎𝖘𝖎𝖙𝖔𝖗 :</summary>
+<img src= https://komarev.com/ghpvc/?username=TsaniAflah&color=grey&style=flat-square&label=>
 <detail/>
 <p/>
