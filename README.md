@@ -1,12 +1,12 @@
 <h1 align="center"><img width="27%" height="auto" src="https://cdn131.picsart.com/317759484386211.png?type=webp&to=min&r=640"/></h1>
-<h1 align="center">Nice to meet you<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sani</h1>
+<h1 align="center">𝓦𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖍𝖊𝖗𝖊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,𝓘'𝖒 𝓢𝖆𝖓𝖎</h1>
 
 ## **ABOUT ME**
 
 -  Name              : Tsani Aflah
 -  Student ID Number : **2008107010015**
 -  Major             : Computer Science/informatics
--  Interested in android develompment and UI/UX
+-  Interested in android development and UI/UX
 
 ### Keep in touch :
 
@@ -35,5 +35,3 @@
 ---
   <img align = "left" width="38%" src="https://user-images.githubusercontent.com/90914338/139286220-e02433c7-f199-41db-a39c-5e0b81c6a0ad.gif">
   <img align = "left" width="40%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsaniAflah&show_icons=true&theme=gruvbox_light"> 
-  
-  
