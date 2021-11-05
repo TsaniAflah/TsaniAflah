@@ -34,6 +34,6 @@
 
 ---
 
-  <img align = "center" width="50%" height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsaniAflah&show_icons=true&theme=gruvbox_light" /> 
+  <img align = "center" width="20%" height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsaniAflah&show_icons=true&theme=gruvbox_light" /> 
   
    <img align = "left" width="40%" src="https://user-images.githubusercontent.com/90914338/139286220-e02433c7-f199-41db-a39c-5e0b81c6a0ad.gif" />
