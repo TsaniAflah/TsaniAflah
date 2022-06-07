@@ -1,12 +1,12 @@
 <h1 align="center"><img width="27%" height="auto" src="https://cdn131.picsart.com/317759484386211.png?type=webp&to=min&r=640"/></h1>
-<h1 align="center">𝓦𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖍𝖊𝖗𝖊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> ,𝓘'𝖒 𝓢𝖆𝖓𝖎</h1>
+<h1 align="center">𝓦𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖍𝖊𝖗𝖊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"> ,𝓘'𝖒 𝓢𝖆𝖓𝖎</h1>
 
 ## **ABOUT ME**
 
 - 𝐍𝐚𝐦𝐞              : 𝐓𝐬𝐚𝐧𝐢 𝐀𝐟𝐥𝐚𝐡 
 - 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐈𝐃 𝐍𝐮𝐦𝐛𝐞𝐫 : **𝟐𝟎𝟎𝟖𝟏𝟎𝟕𝟎𝟏𝟎𝟎𝟏𝟓** 
 - 𝐌𝐚𝐣𝐨𝐫             : 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 /𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬 
-- 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐔𝐈/𝐔𝐗
+- 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 & 𝐔𝐈/𝐔𝐗
 
 ### Keep in touch :
 
@@ -16,6 +16,7 @@
 <br />
 <small><small>*strangers dont interact please*</small></small>
 ### Languages and Tools :
+<a href="https://www.laravel.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="4%"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/> </a> 
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -38,7 +39,7 @@
 ---
 <p>
 <img align = "center" width="40%" src="https://user-images.githubusercontent.com/90914338/139286220-e02433c7-f199-41db-a39c-5e0b81c6a0ad.gif">
-<img align = "center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsaniAflah&show_icons=true&theme=gruvbox_light"> 
+<img align = "center" width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsaniAflah&show_icons=true&theme=gruvbox_light"> 
 
 </p>
 
