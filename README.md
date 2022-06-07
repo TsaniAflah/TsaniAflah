@@ -1,5 +1,5 @@
 <h1 align="center"><img width="27%" height="auto" src="https://cdn131.picsart.com/317759484386211.png?type=webp&to=min&r=640"/></h1>
-<h1 align="center">𝓦𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖍𝖊𝖗𝖊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,𝓘'𝖒 𝓢𝖆𝖓𝖎</h1>
+<h1 align="center">𝓦𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖍𝖊𝖗𝖊 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> ,𝓘'𝖒 𝓢𝖆𝖓𝖎</h1>
 
 ## **ABOUT ME**
 
